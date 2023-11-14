@@ -9,5 +9,3 @@
 ![Dnayaka's github stats](https://github-readme-stats.vercel.app/api?username=Dnayaka&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnayaka&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dnayaka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dnayaka)](https://github.com/anuraghazra/github-readme-stats)
