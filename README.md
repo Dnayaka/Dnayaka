@@ -31,4 +31,5 @@
 ![Dnayaka's github stats](https://github-readme-stats.vercel.app/api?username=Dnayaka&show_icons=true&theme=dracula)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnayaka&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dnayaka&theme=gruvbox" />  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dnayaka.Dnayaka)
