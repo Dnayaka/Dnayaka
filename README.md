@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-# SNAKE
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -23,7 +22,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="github-user-contribution.svg"
   />
 </picture>
 
