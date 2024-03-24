@@ -63,5 +63,27 @@ function deleteTask(id) {
 }
 
 function showNotification(taskName, deadline) {
-    alert(`Task "${taskName}" deadline is over! Deadline was ${deadline}`);
+    const overlay = document.getElementById('overlay');
+    const popup = document.getElementById('popup');
+    const popupTaskName = document.getElementById('popup-task-name');
+    const popupDeadline = document.getElementById('popup-deadline');
+
+    popupTaskName.textContent = `Task "${taskName}" deadline is over!`;
+    popupDeadline.textContent = `Deadline was ${deadline}`;
+
+    overlay.style.display = 'block';
+    popup.style.display = 'block';
+
+    // Close popup when overlay is clicked
+    overlay.addEventListener('click', () => {
+        overlay.style.display = 'none';
+        popup.style.display = 'none';
+    });
+
+    // Close popup when close button is clicked
+    const closeBtn = document.getElementById('close');
+    closeBtn.addEventListener('click', () => {
+        overlay.style.display = 'none';
+        popup.style.display = 'none';
+    });
 }
