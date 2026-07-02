@@ -53,5 +53,5 @@ Open to discussing custom trading-automation / script work — open an issue or 
   <img alt="github contribution grid snake animation" src="github-user-contribution.svg" />
 </picture>
 
-![Dnayaka's github stats](https://github-readme-stats.vercel.app/api?username=Dnayaka&show_icons=true&theme=dracula)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnayaka&layout=compact&count_private=true&theme=gruvbox" />
