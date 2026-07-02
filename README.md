@@ -47,6 +47,8 @@ A Bloomberg-style trading dashboard for BTC/ETH/SOL — live chart with a backte
 ## 📬 Reach me
 Open to discussing custom trading-automation / script work — open an issue or send a DM.
 
+[![Instagram](https://img.shields.io/badge/-@dnayakacodingg-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dnayakacodingg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
