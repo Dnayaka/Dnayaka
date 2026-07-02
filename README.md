@@ -1,15 +1,34 @@
 # Hi, I'm Dnayaka 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dnayaka&color=ff8c1a&style=flat-square&label=Profile+Views)
+
 Developer from Java, Indonesia — focused on **crypto trading automation, quantitative strategy research, and backend tooling**. Coding is my hobby, but I build things properly: real backtests, real edge-case handling, real cleanup.
 
 ## 🔭 What I work on
-- **Quant trading systems** — RSI-momentum strategies (Pine Script + Python), backtested with walk-forward validation, out-of-sample testing, and anti-overfit checks on multi-year BTC data
-- **Trading bot infrastructure** — exchange API integration, live/paper execution, circuit-breakers, monitoring dashboards
+- **Quant trading systems** — RSI-momentum strategies (Pine Script + Python), backtested with walk-forward validation, out-of-sample testing, and anti-overfit checks on multi-year BTC/ETH/SOL data
+- **Trading bot infrastructure** — exchange API integration, live/paper execution, circuit-breakers + statistical risk controls, monitoring dashboards
 - **Automation & tooling** — Telegram/WhatsApp bots, hardware control scripts, small web apps
 
-## 🧰 Featured
+## ⭐ Flagship project
+
+### [btc-crypto-terminal](https://github.com/Dnayaka/btc-crypto-terminal)
+A Bloomberg-style trading dashboard for BTC/ETH/SOL — live chart with a backtested momentum strategy overlaid, liquidity/order-book visualization, AI market commentary, an economic calendar, and a private trading journal with PnL tracking. Python stdlib `http.server`, no framework, load-tested to 1000 concurrent users.
+
+<a href="https://github.com/Dnayaka/btc-crypto-terminal"><img src="https://raw.githubusercontent.com/Dnayaka/btc-crypto-terminal/main/screenshots/01-terminal-main.png" width="100%" alt="btc-crypto-terminal screenshot"></a>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pine Script](https://img.shields.io/badge/-Pine%20Script-131722?style=flat-square&logo=tradingview)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Binance API](https://img.shields.io/badge/-Binance%20Futures-F0B90B?style=flat-square&logo=binance&logoColor=black)
+![Systemd](https://img.shields.io/badge/-systemd-black?style=flat-square&logo=linux&logoColor=white)
+
+**[→ Live static preview (no install needed)](https://dnayaka.github.io/btc-crypto-terminal/)** · one command self-hosted install: `git clone ... && ./setup.sh`
+
+## 🧰 Other projects
+
 | Project | What it is |
 |---|---|
+| [`btc-rsi-momentum`](https://github.com/dnayaka/btc-rsi-momentum) | The Pine Script strategies behind the terminal above — backtests, methodology, honesty notes on forward performance |
 | [`Indodax`](https://github.com/dnayaka/Indodax) | Lightweight Python client for the Indodax exchange API — HMAC-signed requests, packaged for pip |
 | [`Projek_Dnayaka`](https://github.com/dnayaka/Projek_Dnayaka) | Point-of-sale (cashier) system in Python |
 | [`Crypto-python-analysis`](https://github.com/dnayaka/Crypto-python-analysis) | Coin screener — flags Buy/Hold/Sell by simple momentum rules |
