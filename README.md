@@ -52,6 +52,3 @@ Open to discussing custom trading-automation / script work — open an issue or 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="github-user-contribution.svg" />
 </picture>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnayaka&layout=compact&count_private=true&theme=gruvbox" />
