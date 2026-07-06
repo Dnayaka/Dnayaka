@@ -28,6 +28,7 @@ A Bloomberg-style trading dashboard for BTC/ETH/SOL — live chart with a backte
 
 | Project | What it is |
 |---|---|
+| [`lan-mouse-2laptop`](https://github.com/Dnayaka/lan-mouse-2laptop) | Share one keyboard/mouse between 2 Ubuntu (GNOME/Wayland) laptops over LAN — auto mDNS discovery, systemd auto-start, no manual IP/hostname config |
 | [`btc-rsi-momentum`](https://github.com/dnayaka/btc-rsi-momentum) | The Pine Script strategies behind the terminal above — backtests, methodology, honesty notes on forward performance |
 | [`Indodax`](https://github.com/dnayaka/Indodax) | Lightweight Python client for the Indodax exchange API — HMAC-signed requests, packaged for pip |
 | [`Projek_Dnayaka`](https://github.com/dnayaka/Projek_Dnayaka) | Point-of-sale (cashier) system in Python |
